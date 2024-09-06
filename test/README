@@ -9,3 +9,6 @@ in the development cycle.
 
 More information about PlatformIO Unit Testing:
 - https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+This project have not enought file for testing.It's have not include file aws_iot_certficates.c and api key. 
+You can download Lib for enought file: https://github.com/ExploreEmbedded/Hornbill-Examples/tree/master/arduino-esp32/AWS_IOT
